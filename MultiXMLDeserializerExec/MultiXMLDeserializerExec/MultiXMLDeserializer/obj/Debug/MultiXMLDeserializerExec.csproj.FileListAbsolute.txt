@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\obj\Debug\MultiXMLDeserializerExec.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\obj\Debug\MultiXMLDeserializerExec.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\bin\Debug\MultiXMLDeserializerExec.exe.config
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\bin\Debug\MultiXMLDeserializerExec.exe
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\bin\Debug\MultiXMLDeserializerExec.pdb
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\obj\Debug\MultiXMLDeserializerExec.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\obj\Debug\MultiXMLDeserializerExec.exe
+C:\Users\Administrator\Desktop\MultiXMLDeserializerExec\MultiXMLDeserializer\obj\Debug\MultiXMLDeserializerExec.pdb
